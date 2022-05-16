@@ -1,0 +1,14 @@
+apache-airflow
+requests
+aiohttp
+alembic
+flask-admin
+flask-migrate
+flask
+flask
+numpy
+pandas
+psycopg2-binary
+sqlalchemy-utils==0.36.3
+sqlalchemy==1.3.19
+urllib3
